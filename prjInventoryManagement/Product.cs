@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 namespace prjInventoryManagement
 {
     //custom type
+
     public class Product
     {
         [Key]
